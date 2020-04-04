@@ -1,0 +1,9 @@
+# My blocklist
+# Blocking mobile ad providers and some analytics providers
+
+127.0.0.1  localhost
+::1  localhost
+
+# [cheap-ads.net]
+127.0.0.1  verycheap.cheap-ads.net
+127.0.0.1  cheap-ads.net
