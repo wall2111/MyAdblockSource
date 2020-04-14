@@ -1,5 +1,7 @@
 # MyAdblockSource
 
+Ref: https://github.com/openwrt/packages/blob/master/net/adblock/files/README.md
+
 Config adblock v4
 ```
 "thanhnt_adblock": {
